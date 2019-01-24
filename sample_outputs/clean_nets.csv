@@ -1,0 +1,11 @@
+id,house_number,road,city,state,zip,building,unit,level,neighborhood,zero_number_flag,no_number_flag,intersection_flag,no_name_flag,hyphen_flag
+243122625,210,w washington sq,philadelphia,pa,19106,,,,,0,0,0,0,0
+795931105,1312,spruce st,philadelphia,pa,19106,,,,,0,0,0,0,0
+78651205,237,st james pl,philadelphia,pa,19106,,,,,0,0,0,0,0
+856849862,228,arch st,philadelphia,pa,19106,,,,,0,0,0,0,0
+540749052,308-10,market st,philadelphia,pa,19106,,,,,0,0,0,0,1
+819719779,325,chestnut st,philadelphia,pa,19106,,,,,0,0,0,0,0
+140185097,15,s 3rd st,philadelphia,pa,19106,,,,,0,0,0,0,0
+45144826,52,s 2nd st,philadelphia,pa,19106,,,,,0,0,0,0,0
+27953298,10,s  2nd st,philadelphia,pa,19106,,,,,0,0,0,0,0
+996121910,123,chestnut st,philadelphia,pa,19106,,,,,0,0,0,0,0
